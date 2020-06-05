@@ -1,9 +1,8 @@
-## Welcome to GitHub Pages
+## About Me
 
-You can use the [editor on GitHub](https://github.com/linyongver/Yong-Lin/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+I am Yong Lin. I obtained my bachalor and master's degree from Zhejiang Univeristy. I am now an employee in the Artificial Intelegence Department of Ant Financial, Alibaba.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+My main research interests are learning *theory and generative models*.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
