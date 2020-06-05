@@ -20,5 +20,6 @@ My main research interests are *learning theory* and *generative models*.
 * Outstanding Graduate of Zhejiang Province(2.5%, by Zhejiang Province’s Ministry of Education), 2013
 * Nomination for Zhu Kochen scholarship(0.5%, Highest Student Honor in Zhejiang University), 2013
 * Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
+
 ### Contact Me
 linyongver(A)163(B)com{A = @; B = .}
