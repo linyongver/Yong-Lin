@@ -17,5 +17,7 @@ My main research interests are *learning theory* and *generative models*.
 
 ### Contact Me
 linyongver(A)163(B)com
+
 A = @
+
 B = .
