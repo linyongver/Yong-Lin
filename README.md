@@ -2,7 +2,7 @@
 
 I am Yong Lin. I obtained my bachalor and master's degree from Zhejiang Univeristy. I am now an employee in the Artificial Intelegence Department of Ant Financial, Alibaba.
 
-My main research interests are learning *theory and generative models*.
+My main research interests are *learning theory* and *generative models*.
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
