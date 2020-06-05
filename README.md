@@ -16,8 +16,4 @@ My main research interests are *learning theory* and *generative models*.
 3. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity
 
 ### Contact Me
-linyongver(A)163(B)com
-
-A = @
-
-B = .
+linyongver(A)163(B)com{A = @; B = .}
