@@ -3,34 +3,19 @@
 I am Yong Lin. I obtained my bachalor and master's degree from Zhejiang Univeristy. I am now an employee in the Artificial Intelegence Department of Ant Financial, Alibaba.
 
 My main research interests are *learning theory* and *generative models*.
-### Markdown
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Experience
+* 2017-2020, Algorithm Expert, Artificial Intelegence Department of Ant Financial, Alibaba.
+* 2016-2017, Quantitive Strategy Investigator, High-Flyer Hedge Fund(One of the most famous Hedge Funds in China)
+* 2013-2016, Master of Engineering, Zhejiang University 
+* 2009-2013, Bachelor of Engineering, Zhejiang Univeristy
 
-```markdown
-Syntax highlighted code block
+### Publications
+1. **Yong Lin** and Zheng Xu. Cable sheath loss reduction strategy research based on the coupled linemodel.IEEE Transactions On Power Delivery
+2. **Yong Lin**, Fenyan Yang, Zheng Xu, and Hua Weng. Cable sheath loss analysis based on coupled linemodel.In2014 International Conference on Power System Technology
+3. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity
 
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/linyongver/Yong-Lin/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+### Contact Me
+linyongver(A)163(B)com
+A = @
+B = .
