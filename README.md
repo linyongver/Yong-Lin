@@ -1,8 +1,8 @@
 ## About Me
 
-I am Yong Lin. I obtained my bachalor and master's degree from Zhejiang Univeristy. I am now an employee in the Artificial Intelegence Department of Ant Financial, Alibaba.
+I am an Algorithm Expert in Artificial Intelegence Department of Ant Financial, Alibaba, after obtaining my master’s from Zhejiang Univeristy. 
 
-My main research interests are *learning theory* and *generative models*.
+**Learning theory** and **generative models** are my research interests.
 
 ### Experience
 * 2017-2020, Algorithm Expert, Artificial Intelegence Department of Ant Financial, Alibaba.
