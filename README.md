@@ -1,8 +1,6 @@
 ## About Me
 
-I am an Algorithm Expert in Artificial Intelegence Department of Ant Financial, Alibaba, after obtaining my master’s from Zhejiang Univeristy. 
-
-**Out of Distribution Generalization** and **Learning theory** are my research interests.
+I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). **Out of Distribution Generalization** , **Robustess of Deep Learning** and **Learning theory** are my research interests. Particularly, we are now interested in **Invariant Learning**. If you are also interested in these topics or my research, you can come to talk with me about them. 
 
 ### Experience
 * 2017-2020, Algorithm Expert, Artificial Intelegence Department of Ant Financial, Alibaba.
