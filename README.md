@@ -9,11 +9,12 @@ I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://ton
 * 2009-2013, Bachelor of Engineering(Ranking 1/207), Zhejiang Univeristy 
 
 ### Publications
-1. **Yong Lin**, Hanze Dong, Hao Wang and Tong Zhang. Bayesian Invariant Risk Minimization. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022 (**ORAL**). 
-2. **Yong Lin**, Qing Lian and Tong Zhang. An Empirical Study of Invariant Risk Minimization on Deep Models. ICML2021 workshop on UDL (Uncertainty & Robustness in Deep Learning). 
-3. **Yong Lin** and Zheng Xu. Cable sheath loss reduction strategy research based on the coupled linemodel.IEEE Transactions On Power Delivery
-4. **Yong Lin**, Fenyan Yang, Zheng Xu, and Hua Weng. Cable sheath loss analysis based on coupled linemodel.In2014 International Conference on Power System Technology
-5. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity, 2015 IEEE Power & Energy Society General Meeting
+1. **Yong Lin** \*, Shengyu Zhu\*, Peng Cui. ZIN: When and How to Learn Invariance by Environment Inference?,] arXiv:2203.05818
+2. **Yong Lin** \*, Hanze Dong\*, Hao Wang and Tong Zhang. Bayesian Invariant Risk Minimization. IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) 2022 (**ORAL**). 
+3. **Yong Lin**, Qing Lian and Tong Zhang. An Empirical Study of Invariant Risk Minimization on Deep Models. ICML2021 workshop on UDL (Uncertainty & Robustness in Deep Learning). 
+4. **Yong Lin** and Zheng Xu. Cable sheath loss reduction strategy research based on the coupled linemodel.IEEE Transactions On Power Delivery
+5. **Yong Lin**, Fenyan Yang, Zheng Xu, and Hua Weng. Cable sheath loss analysis based on coupled linemodel.In2014 International Conference on Power System Technology
+6. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity, 2015 IEEE Power & Energy Society General Meeting
 
 ### Selected Awards
 * National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
