@@ -18,6 +18,7 @@ I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://ton
 8. **Yong Lin**, Fenyan Yang, Zheng Xu, and Hua Weng. Cable sheath loss analysis based on coupled linemodel.In2014 International Conference on Power System Technology
 9. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity, 2015 IEEE Power & Energy Society General Meeting
 
+(\* Denotes Equal Contribution.)
 ### Selected Awards
 * National Scholarship  * 3 (1.8%, by China’s Ministry of Education), 2010, 2011 and 2015
 * Hong Kong PhD Fellowship Scheme(HKPFS) Award
