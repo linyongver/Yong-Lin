@@ -15,8 +15,8 @@ I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://ton
 5. **Yong Lin** \*, Hanze Dong\*, Hao Wang and Tong Zhang. Bayesian Invariant Risk Minimization. IEEE/CVF Conference on Computer Vision and Pattern Recognition 2022 (CVPR)  (**ORAL**). 
 6. **Yong Lin**, Qing Lian and Tong Zhang. An Empirical Study of Invariant Risk Minimization on Deep Models. ICML2021 workshop on UDL (Uncertainty & Robustness in Deep Learning). 
 7. **Yong Lin** and Zheng Xu. Cable sheath loss reduction strategy research based on the coupled linemodel.IEEE Transactions On Power Delivery
-8. **Yong Lin**, Fenyan Yang, Zheng Xu, and Hua Weng. Cable sheath loss analysis based on coupled linemodel.In2014 International Conference on Power System Technology
-9. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity, 2015 IEEE Power & Energy Society General Meeting
+<!-- 8. **Yong Lin**, Fenyan Yang, Zheng Xu, and Hua Weng. Cable sheath loss analysis based on coupled linemodel.In2014 International Conference on Power System Technology
+9. **Yong Lin**, Zheng Xu, Liang Xiao, Zheren Zhang, Huangqing Xiao. Analysis of coupling effect on LCC-MCC hybrid HVDC from parallel AC lines in close proximity, 2015 IEEE Power & Energy Society General Meeting -->
 
 (\* Denotes Equal Contribution.)
 ### Selected Awards
