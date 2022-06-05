@@ -3,10 +3,12 @@
 I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). **Out of Distribution Generalization** , **Robustess of Deep Learning** and **Learning theory** are my research interests. Particularly, we are now working on topics related to **Invariant Learning**. If you are also interested in these fields or just my works, you can come to have a chat me. 
 
 ### Experience
+* 2020-Now, PhD Student, the Hong Kong University of Science and Technology.
 * 2017-2020, Algorithm Expert, Artificial Intelegence Department of Ant Financial, Alibaba.
 * 2016-2017, Quantitive Strategy Investigator, High-Flyer Hedge Fund(One of the most famous Hedge Funds in China)
 * 2013-2016, Master of Engineering, Zhejiang University 
 * 2009-2013, Bachelor of Engineering(Ranking 1/207), Zhejiang Univeristy 
+
 
 ### Publications
 1. **Yong Lin** \*, Shengyu Zhu\*, Peng Cui. ZIN: When and How to Learn Invariance by Environment Inference? arXiv:2203.05818
