@@ -12,8 +12,8 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 * 2009-2013, Bachelor of Engineering(Ranking 1/207), Zhejiang Univeristy 
 
 
-### Publications
-1. **Yong Lin** \*, Shengyu Zhu, Lu Tan,  Peng Cui. ZIN: When and How to Learn Invariance by Environment Inference? Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
+### Selected Publications
+1. **Yong Lin**, Shengyu Zhu, Lu Tan,  Peng Cui. ZIN: When and How to Learn Invariance by Environment Inference? Thirty-sixth Conference on Neural Information Processing Systems (NeurIPS 2022)
 2. Xiao Zhou \*, **Yong Lin**\*, Weizhong Zhang\*, Tong Zhang. Sparse Invariant Risk Minimization. International Conference on Machine Learning  (ICML 2022)
 3. Xiao Zhou \*, **Yong Lin**\*, Renjie Pi\*, Weizhong Zhang, Renzhe Xu, Peng Cui, Tong Zhang. Model Agnostic Sample Reweighting for Out-of-Distribution Learning. International Conference on Machine Learning 2022 (ICML 2022)
 4. **Yong Lin** \*, Hanze Dong\*, Hao Wang and Tong Zhang. Bayesian Invariant Risk Minimization. IEEE/CVF Conference on Computer Vision and Pattern Recognition  (CVPR 2022)  (**ORAL**). 
