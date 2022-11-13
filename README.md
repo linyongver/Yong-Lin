@@ -1,6 +1,8 @@
 ## About Me
 
-I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). **Out of Distribution Generalization** , **Robustess of Deep Learning** and **Learning theory** are my research interests. Particularly, we are now working on topics related to **Invariant Learning**. If you are also interested in these fields or just my works, you can come to have a chat me. 
+I am an CSE PhD sudent in HKUST, supervised by Professor [Tong Zhang](http://tongzhang-ml.org/). **Out of Distribution  (OOD) Generalization** , **Robustess of Deep Learning** and **Learning theory** are my research interests. Particularly, we are now working on topics related to **Invariant Learning**. 
+
+If you are also interested in discussing / cooperating with me on OOD, you can contact me by Email (ylindf(A)connect.ust.hk {A = @}). 
 
 I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhihu.com/p/567666715) (in Chinese).
 
@@ -30,4 +32,4 @@ I have lunched a blog on Invariant Risk Minimization [here](https://zhuanlan.zhi
 * Meritorious Winner, The Mathematical Contest in Modeling(International MCM), 2012
 
 ### Contact Me
-linyongver(A)163(B)com{A = @; B = .}
+ylindf(A)connect.ust.hk {A = @}
